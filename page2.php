@@ -1,6 +1,6 @@
 
 <!DOCTYPE html>
-<html lang="en"class="no-js" manifest="manifest.php">
+<html lang="en"class="no-js">
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -22,21 +22,21 @@
 		<div class="header clearfix">
 			<nav>
 				<ul class="nav nav-pills pull-right">
-					<li><a href="page1.html">Page1</a></li>
-					<li><a href="page2.html">Page2</a></li>
+					<li><a href="index.php">Index</a></li>
+					<li><a href="page1.php">Page1</a></li>
 					<li role="presentation"><a href="https://github.com/sgoyalnet/appoffline" target="_blank">Get the code&nbsp;<i class="fa fa-external-link" aria-hidden="true"></i></a></li>
 					<li role="presentation"><a href="http://sgoyal.net/2016/09/02/appoffline">Back to blog</a></li>
 				</ul>
 			</nav>
-			<h3 class="text-muted">Offline Apps Demo || Index</h3>
+			<h3 class="text-muted">Offline Apps Demo || Page2</h3>
 		</div>
 		<div class="container">
 			<div class="row">
 				<div class="col col-md-6">
-					<img src= "images/112.jpg" />	
+					<img width="100%" src= "images/internet-of-things-2.jpg" />	
 				</div>
 				<div class="col col-md-6">
-					Navigate to Page 1 and Page 2 to see the demo pages.
+					Navigate to Index and Page 1 to see the demo pages.
 					<br/>
 					Switch off your internet and refresh the website. Your full website should be working.
 				</div>

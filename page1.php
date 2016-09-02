@@ -22,8 +22,8 @@
 		<div class="header clearfix">
 			<nav>
 				<ul class="nav nav-pills pull-right">
-					<li><a href="index.html">Index</a></li>
-					<li><a href="page2.html">Page2</a></li>
+					<li><a href="index.php">Index</a></li>
+					<li><a href="page2.php">Page2</a></li>
 					<li role="presentation"><a href="https://github.com/sgoyalnet/appoffline" target="_blank">Get the code&nbsp;<i class="fa fa-external-link" aria-hidden="true"></i></a></li>
 					<li role="presentation"><a href="http://sgoyal.net/2016/09/02/appoffline">Back to blog</a></li>
 				</ul>

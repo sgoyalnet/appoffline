@@ -3,13 +3,13 @@ header("Content-Type: text/cache-manifest");
 
 echo "CACHE MANIFEST\n";
 
-echo "# VERSION 1.0\n\n";
+echo "# VERSION 1.1\n\n";
 
 echo "CACHE:\n";
 
-echo "index.html\n";
-echo "page1.html\n";
-echo "page2.html\n";
+echo "index.php\n";
+echo "page1.php\n";
+echo "page2.php\n";
 echo "scripts.js\n";
 echo "style.css\n";
 echo "images/112.jpg\n";
